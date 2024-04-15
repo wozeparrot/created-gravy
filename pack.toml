@@ -1,12 +1,12 @@
 name = "Created Gravy"
 author = "wozeparrot"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f54406225206a738165afe4f8632b7a69d4e938cfaf9248260a6adaac5bc3c45"
+hash = "47d1247e9d8562f25cf3f66ab97b6974dbd860aa51209127a4ddad3fe6ab54db"
 
 [versions]
 fabric = "0.15.10"

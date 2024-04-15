@@ -1,0 +1,6 @@
+.direnv/
+result
+flake.nix
+flake.lock
+.envrc
+*.mrpack

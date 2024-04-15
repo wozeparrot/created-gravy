@@ -313,6 +313,10 @@ file = "config/visuality.json"
 hash = "88d657f8162309d18cd50a9d38b6e166b00e36c8ed9f69f5637067e0b1523427"
 
 [[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "fb94021a7ce0018fb1b0b3cfc15f7aaef15a71e75f734921775e72f9fcf652b8"
+
+[[files]]
 file = "config/waila/blacklist.json"
 hash = "6cd80dde4e52a5700e2e7e3372e6cb120d630cb2d7bc2886842f26ab241cc71e"
 
@@ -345,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/adorn.pw.toml"
 hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
+metafile = true
+
+[[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "c3cec05f2c0456cd0d2b1c31cb7d35b4e905700fbe97d0900d1b0497a0a950a8"
 metafile = true
 
 [[files]]
@@ -428,6 +437,11 @@ hash = "43fe767a08365fa6c049c8e35323f6fd1a0aa4602725126e460ae6fd514888be"
 metafile = true
 
 [[files]]
+file = "mods/brainier-bees.pw.toml"
+hash = "b7a995a27379433a0ae846dda2658afbbdf601c6d982a66008ee1946ee585477"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
@@ -465,6 +479,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
+metafile = true
+
+[[files]]
+file = "mods/cooldown-coordinator.pw.toml"
+hash = "842e17199861f6639ad0da2c3a2bac4874a7556d2cec00bd2d5f85289b749c15"
 metafile = true
 
 [[files]]
@@ -535,6 +554,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/ductwork.pw.toml"
+hash = "209c9f7fd921904203e56349f139afe0965b500f687c8c518814376c66468564"
 metafile = true
 
 [[files]]
@@ -833,4 +857,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "d1591fa168a7e075122ab354fe31000866ec7bbc55991d267674445cd1c4e237"
 metafile = true
