@@ -1,0 +1,13 @@
+name = "Their Name Is Blåhaj"
+filename = "Their Name Is Blåhaj.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HVoeebeI/versions/TBO1es1J/Their%20Name%20Is%20Bl%C3%A5haj.zip"
+hash-format = "sha1"
+hash = "f89ac28842c31791791183f88378784f9f005c57"
+
+[update]
+[update.modrinth]
+mod-id = "HVoeebeI"
+version = "TBO1es1J"
