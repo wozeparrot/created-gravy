@@ -1,0 +1,13 @@
+name = "Created Gravy"
+author = "wozeparrot"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5627bc1717a819e9f30990f054f5f0ac71f96e8214409dc3ffeb9c62cf1cb618"
+
+[versions]
+fabric = "0.15.10"
+minecraft = "1.20.1"
