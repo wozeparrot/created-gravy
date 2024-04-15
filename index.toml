@@ -269,10 +269,6 @@ file = "config/railways-server.toml"
 hash = "fde5609a0097de79650f6e60b7a024b279dd8c318dd21839c4d84260f2ae58a0"
 
 [[files]]
-file = "config/replaymod.json"
-hash = "955fd8e1a24d41a2782434662275ccaf2642826267f9fdc658ed9e168a05bf39"
-
-[[files]]
 file = "config/ritchiesprojectilelib-server.toml"
 hash = "799821cb8e17dc622db4a9f7c8292cc4b70c7742a3bdb66504eef2f31ca00a0a"
 
@@ -823,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5e64f6c8ec7b34eb90942c45dabf09a342e235ef71f5739382f9f27d2402f3d8"
+hash = "30729305b5d7abdf6de348f3a0333401c6fb9936726578446924f3a11e1c04dc"
 
 [[files]]
 file = "resourcepacks/folder.json"
